@@ -1,0 +1,15 @@
+package sintaxeAlura;
+
+public class Exercicio {
+	public static void main(String[] args) {
+
+		double salario = 3300.0;
+
+		// ifs aqui
+		if (salario <=2800) {
+			System.out.println("O IR é de 7,5%");
+		} if (salario > 2800 && <= 3751) {
+			
+		}
+	}
+}

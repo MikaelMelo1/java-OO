@@ -1,0 +1,11 @@
+package sintaxeAlura;
+
+public class TestaCaracteres {
+
+	public static void main(String[] args) {
+		
+		String palavra = "Sempre aspas duplas";
+		
+		System.out.println(palavra);
+	}
+}

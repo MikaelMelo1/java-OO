@@ -1,0 +1,10 @@
+package byteComposto;
+
+public class Cliente {
+	
+	String cpf;
+	String endereco;
+	String titular;
+	
+
+}

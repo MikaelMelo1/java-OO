@@ -1,0 +1,11 @@
+package sintaxeAlura;
+
+public class TestaCaracteres {
+
+	public static void main(String[] args) {
+		char[10] teste;
+		teste = 'sldkasd'
+		System.out.println(teste);
+		
+	}
+}

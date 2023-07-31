@@ -1,0 +1,17 @@
+package sintaxeAlura;
+
+public class TestaConversao {
+	
+	public static void main(String[] args) {
+		double salario = 1270.50;
+		// conversão 
+		int valor = (int) salario;
+		System.out.println(valor);
+		
+		long numeroGrande = 320322132139203923l;
+		
+		System.out.println(numeroGrande)
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package sintaxeAlura;
+
+public class TestaFor {
+	
+	public static void main(String[] args) {
+		System.out.println("Testand o for");
+		
+		
+		for (int i = 0; i <= 10; i ++) {
+			
+			int total = 0
+			total += i;
+			System.out.println(" O total é" + total);
+		}
+	}
+
+}

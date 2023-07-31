@@ -1,0 +1,11 @@
+package sintaxeAlura;
+
+public class TestaPontoFlutuante {
+	
+	public static void main(String[]args) {
+		int salario
+		salario = 1250.70;
+		
+	}
+
+}

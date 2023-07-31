@@ -1,0 +1,10 @@
+package sintaxeAlura;
+
+public class TestaWhile {
+	public static void main(String[] args) {
+		
+		int idade =  10;
+		
+		while ()
+	}
+}

@@ -1,0 +1,13 @@
+package sintaxeAlura;
+
+public class TestaWhile {
+	public static void main(String[] args) {
+		
+		int idade =  10;
+		int inicio = 1;
+		
+		while (inicio  < idade) {
+			System.out.println(inicio);
+		}
+	}
+}

@@ -1,0 +1,7 @@
+package byteComposto;
+
+public class TesteComposto {
+	
+	Conta MikaelConta = new Conta();
+
+}

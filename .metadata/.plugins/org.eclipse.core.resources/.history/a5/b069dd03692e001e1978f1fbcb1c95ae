@@ -1,0 +1,9 @@
+package sintaxeAlura;
+
+public class TestaCaracteres {
+
+	public static void main(String[] args) {
+		
+			String palavra = 'alura curso online tec'
+	}
+}

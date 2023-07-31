@@ -1,0 +1,10 @@
+package sintaxeAlura;
+
+public class TestaCaracteres {
+
+	public static void main(String[] args) {
+		char nome = 'qwewqe';
+		System.out.println(nome);
+		
+	}
+}

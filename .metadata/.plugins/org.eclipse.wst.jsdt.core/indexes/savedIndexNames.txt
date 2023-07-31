@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\nitro\eclipse-workspace\www\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+890010910.index
+936970421.index
+2566693652.index
+1659586201.index
+2061510709.index

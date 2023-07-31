@@ -1,0 +1,18 @@
+package sintaxeAlura;
+
+public class TesteDeCondicional {
+	public static void main(String[] args) {
+		int idade = 15;
+		int quantidadePessoas = 3;
+
+		if (idade >= 18) {
+			System.out.println("Você é maior de idade");
+		} else {
+
+			if (quantidadePessoas >= 2)
+				System.out.println("Não é maior de idade");
+			System.out.println("Porém acompanhado");
+		}
+	}
+
+}

@@ -1,0 +1,20 @@
+package sintaxeAlura;
+
+public class TestaBoolean {
+	public static void main(String[] args) {
+		// valores
+		int idade = 18;
+		boolean acompanhado = true;
+
+		// condicional
+		if (idade >= 18 && quantidadePessoas) {
+			System.out.println("Seja bem vindo, boa festa!");
+		} else {
+			System.out.println("Infelizmente não pode entrar!");
+		}
+		
+		
+
+	}
+
+}

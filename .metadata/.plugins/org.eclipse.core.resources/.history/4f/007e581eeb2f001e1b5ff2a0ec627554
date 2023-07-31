@@ -1,0 +1,11 @@
+package byteComposto;
+
+public class TesteComposto {
+	
+	Conta MikaelConta = new Conta();
+	
+	Cliente mikael = new Cliente();
+	
+	mikael.nome = "mikael";
+
+}

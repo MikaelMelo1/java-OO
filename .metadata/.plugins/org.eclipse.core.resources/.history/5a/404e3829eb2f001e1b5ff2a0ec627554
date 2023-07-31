@@ -1,0 +1,15 @@
+package byteComposto;
+
+public class TesteComposto {
+	public static void main(String[] args) {
+		
+		Conta MikaelConta = new Conta();
+		
+		Cliente mikael = new Cliente();
+	}
+	
+	
+	
+	
+
+}

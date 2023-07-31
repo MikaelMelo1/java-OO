@@ -1,0 +1,12 @@
+package sintaxeAlura;
+
+public class TestaBoolean {
+	public static void main(String[] args) {
+		int idade = 15;
+		int quantidadePessoas = 0;
+		
+		if (idade >= 18 || quantidadePessoas >=2)
+
+	}
+
+}
