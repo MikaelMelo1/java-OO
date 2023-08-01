@@ -5,14 +5,17 @@ public class TesteComposto {
 		
 		Conta MikaelConta = new Conta();
 		
-		Cliente mikael = new Cliente();
+		MikaelConta.titular = new Cliente();
 		
-		mikael.cpf = "043.426.750-30";
-		mikael.nome = "Mikael Melo";
+		MikaelConta.titular.nome = "Mikael";
 		
-		MikaelConta.titular = mikael;
+		System.out.println("Meu nome é: " + 
+		MikaelConta.titular.nome);
 		
-		System.out.println(MikaelConta.titular.cpf);
+		
+		
+		
+		
 	}
 	
 	

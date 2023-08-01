@@ -1,5 +1,3 @@
 INDEX VERSION 1.131+C:\Users\nitro\eclipse-workspace\www\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
-2702459774.index
-3299120157.index
 2946757103.index
