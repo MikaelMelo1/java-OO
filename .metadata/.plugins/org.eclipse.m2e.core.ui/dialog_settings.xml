@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\nitro\Pictures\bytebank"/>
 			<item value="C:\Users\nitro\eclipse-workspace\www\springboot"/>
 			<item value="C:\Users\nitro\eclipse-workspace\www"/>
 		</list>
